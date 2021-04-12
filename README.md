@@ -4,4 +4,4 @@ Lista com os repositórios relacionados à minha graduação em Engenharia da Co
 
 ### Design de Software
 
-- **[EP2](https://github.com/pedrofracassi/insper-dessoft-ep2/commits/main)** - Exercício Programa 2, um [Paciência Acordeão](https://bicyclecards.com/how-to-play/accordion/) feito em Python.
+- **[EP2](https://github.com/pedrofracassi/insper-dessoft-ep2)** - Exercício Programa 2, um [Paciência Acordeão](https://bicyclecards.com/how-to-play/accordion/) feito em Python.
