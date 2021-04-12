@@ -4,4 +4,5 @@ Lista com os repositórios relacionados à minha graduação em Engenharia da Co
 
 ### Design de Software
 
+- **[Aula sobre git](https://github.com/pedrofracassi/tutorial-git-dessoft)** - Repositório que usamos pra testar o git em dupla.
 - **[EP2](https://github.com/pedrofracassi/insper-dessoft-ep2)** - Exercício Programa 2, um [Paciência Acordeão](https://bicyclecards.com/how-to-play/accordion/) feito em Python.
