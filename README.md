@@ -7,3 +7,7 @@ Lista com os repositórios relacionados à minha graduação em Engenharia da Co
 - **[Aula sobre git](https://github.com/pedrofracassi/insper-dessoft-git)** - Repositório que usamos pra testar o git em dupla.
 - **[Exercício Programa 2](https://github.com/pedrofracassi/insper-dessoft-ep2)** - Exercício Programa 2, um [Paciência Acordeão](https://bicyclecards.com/how-to-play/accordion/) feito em Python.
 - **[Projeto Final](https://github.com/pedrofracassi/insper-dessoft-projeto-final)** - Nosso projeto final da disciplina, um jogo usando a biblioteca PyGame.
+
+### Modelagem e Simulação do Mundo Físico
+
+- **[Sketch Arduino LM35](https://github.com/pedrofracassi/insper-modsim-lm35)** - Código usado pra ler o sensor LM35 pra validação do Projeto 2 de ModSim
