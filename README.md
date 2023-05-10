@@ -16,8 +16,8 @@ Lista com os repositórios relacionados à minha graduação em Engenharia da Co
 
 ### Camada Física da Computação
 
-- **[Projetos]**(https://github.com/pedrofracassi/insper-camadas-projetos) - Projetos da disciplina
+- **[Projetos](https://github.com/pedrofracassi/insper-camadas-projetos)** - Projetos da disciplina
 
 ### Eletromagnetismo e Ondulatória
 
-- **[Projeto Final](https://github.com/pedrofracassi/insper-eletromag-projeto) - Projeto final da disciplina, em que modelamos, calculamos e construímos um sistema de WPT (transferência de energia sem fios)
+- **[Projeto Final](https://github.com/pedrofracassi/insper-eletromag-projeto)** - Projeto final da disciplina, em que modelamos, calculamos e construímos um sistema de WPT (transferência de energia sem fios)
