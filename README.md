@@ -51,4 +51,4 @@ Lista com os repositórios relacionados à minha graduação em Engenharia da Co
 
 ## Outros
 
-- **[Aula sobre Chatbots](https://github.com/pedrofracassi/insper-aula-chatbots)** - No quarto semestre, fui convidado pelo professor Arnaldo a ministrar uma aula para a turma da atividade complementar de Chatbots, onde demonstrei como conectar o que eles aprenderam ao mundo real através de APIs como a do Discord, OpenAI, e IBM Watson. O código que desenvolvi durante as demonstrações está disponível [aqui](https://github.com/pedrofracassi/insper-aula-chatbots).
+- **[Aula sobre Chatbots](https://github.com/pedrofracassi/insper-aula-chatbots)** - No quarto semestre, fui convidado pelo professor [Arnaldo Junior](https://www.linkedin.com/in/arnaldoavianajr) a ministrar uma aula para a turma da atividade complementar de Chatbots, onde demonstrei como conectar o que eles aprenderam ao mundo real através de APIs como a do Discord, OpenAI, e IBM Watson. O código que desenvolvi durante as demonstrações está disponível [aqui](https://github.com/pedrofracassi/insper-aula-chatbots).
