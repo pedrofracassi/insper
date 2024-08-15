@@ -49,6 +49,32 @@ Lista com os repositórios relacionados à minha graduação em Engenharia da Co
 
 - **[Handout Beadsort](https://github.com/pedrofracassi/insper-desprog-proj-beadsort)** - Na aula de Desafios de Programação, a nossa APS final é preparar um handout de aula, seguindo os guidelines do professor Marcelo Hashimoto. O repositório contém o código markdown desse handout, que está disponível para visualização na web [aqui](https://insper-desprog-proj-beadsort.vercel.app/).
 
-## Outros
+## 6° semestre
+
+### Visão Computacional
+
+- **[Projeto Final "NerdFinder" (Backend)](https://github.com/pedrofracassi/proj-viscomp)** - Projeto final da disciplina, com tema livre, onde desenvolvemos um software para filtragem de fotos de jogadores profissionais de League of Legends a partir de reconhecimento facial.
+
+- **[Projeto Final "NerdFinder" (Frontend)](https://github.com/pedrofracassi/viscomp-ui)** - Repositório com o frontend do projeto final da disciplina de Visão Computacional, feito em NextJS.
+
+### Computação em Nuvem
+
+- **[Projeto Final](https://github.com/pedrofracassi/proj-cloud)** - Projeto final da disciplina, onde montamos e deployamos um app na AWS utilizando  CloudFormation, EC2, DynamoDB, CloudWatch, ASGs, e mais.
+
+## 7° semestre (em andamento)
+
+### Lógica Computacional
+
+- **[Simple Calculator (Compilador)](https://github.com/pedrofracassi/insper-logcomp-compilador-1)** - Repositório de aula da disciplina para a primeira metade do semestre. Compilador simples em Python que lê expressões matemáticas e as avalia.
+
+### Supercomputação
+
+- **[Arquivos de Aula](https://github.com/pedrofracassi/insper-supercomp)** - Repositório com os arquivos produzidos durante as aulas da disciplina. Keywords: SLURM, OpenMP
+
+## Outros Projetos
+
+- **[Insper on Mac](https://github.com/pedrofracassi/insper-on-mac)** - Site comunitário com dicas e tutoriais para estudantes do Insper que usam Mac. O site foi feito usando Nextra (gerador estático de sites em NextJS a partir de MarkdownX) e está disponível aqui: https://insperonmac.vercel.app/
+
+- **Insper Salas Livres (repositório privado)** - Site que monitora os calendários de aula da faculdade e exibe quais salas estão livres no momento, para que os alunos possam estudar ou fazer reuniões. Feito em NextJS. Disponível aqui: https://salas.pedrofracassi.dev/. 
 
 - **[Aula sobre Chatbots](https://github.com/pedrofracassi/insper-aula-chatbots)** - No quarto semestre, fui convidado pelo professor [Arnaldo Junior](https://www.linkedin.com/in/arnaldoavianajr) a ministrar uma aula para a turma da atividade complementar de Chatbots, onde demonstrei como conectar o que eles aprenderam ao mundo real através de APIs como a do Discord, OpenAI, e IBM Watson. O código que desenvolvi durante as demonstrações está disponível [aqui](https://github.com/pedrofracassi/insper-aula-chatbots).
