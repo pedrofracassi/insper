@@ -71,6 +71,10 @@ Lista com os repositórios relacionados à minha graduação em Engenharia da Co
 
 - **[Arquivos de Aula](https://github.com/pedrofracassi/insper-supercomp)** - Repositório com os arquivos produzidos durante as aulas da disciplina. Keywords: SLURM, OpenMP
 
+### Natural Language Processing
+
+- **[APS 1](https://github.com/pedrofracassi/insper-nlp-relevance-search)** da disciplina, onde desenvolvemos um sistema de busca de relevância de documentos usando TFIDF.
+
 ## Outros Projetos
 
 - **[Insper on Mac](https://github.com/pedrofracassi/insper-on-mac)** - Site comunitário com dicas e tutoriais para estudantes do Insper que usam Mac. O site foi feito usando Nextra (gerador estático de sites em NextJS a partir de MarkdownX) e está disponível aqui: https://insperonmac.vercel.app/
